@@ -1,0 +1,13 @@
+﻿Bước 1: Nếu máy tính người dùng chạy hệ điều hành Windows 7 trơ xuống (Windows XP, Windows Vista, Windows 7) 
+	thì cần phải cài đặt .Net Framework 4.0.
+	Người dùng có thể tải bộ cài đặt .Net Framework 4.0 theo đường link:
+	https://www.microsoft.com/en-us/download/details.aspx?id=17718
+
+Bước 2: Cài đặt MS Office 2007 Add-in Saving To PDF and XPS, 
+	để chạy chức năng chuyển đổi tệp MS Office sang PDF (SaveAsPDFandXPS.exe)
+
+Bước 3: Cài đặt plugin ký số: VGCASignServiceSetup_vx.x_date.msi
+
+Bước 4: enable ký số bằng cách: chrome:flags#allow-insecure-localhost
+
+https://onlinepngtools.com/create-transparent-png
